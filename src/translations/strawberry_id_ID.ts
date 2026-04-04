@@ -1454,56 +1454,28 @@ Jika tidak ada yang cocok maka akan menggunakan gambar terbesar dalam direktori.
       <translation>Tambahkan peringkat</translation>
     </message>
     <message>
-      <source>%originalyear%</source>
-      <translation type="unfinished">%originalyear%</translation>
-    </message>
-    <message>
       <source>Add song original year tag</source>
       <translation type="unfinished">Add song original year tag</translation>
-    </message>
-    <message>
-      <source>%artistsort%</source>
-      <translation type="unfinished">%artistsort%</translation>
     </message>
     <message>
       <source>Add song artistsort tag</source>
       <translation type="unfinished">Add song artistsort tag</translation>
     </message>
     <message>
-      <source>%albumartistsort%</source>
-      <translation type="unfinished">%albumartistsort%</translation>
-    </message>
-    <message>
       <source>Add song albumartistsort tag</source>
       <translation type="unfinished">Add song albumartistsort tag</translation>
-    </message>
-    <message>
-      <source>%titlesort%</source>
-      <translation type="unfinished">%titlesort%</translation>
     </message>
     <message>
       <source>Add song titlesort tag</source>
       <translation type="unfinished">Add song titlesort tag</translation>
     </message>
     <message>
-      <source>%composersort%</source>
-      <translation type="unfinished">%composersort%</translation>
-    </message>
-    <message>
       <source>Add song composersort tag</source>
       <translation type="unfinished">Add song composersort tag</translation>
     </message>
     <message>
-      <source>%performersort%</source>
-      <translation type="unfinished">%performersort%</translation>
-    </message>
-    <message>
       <source>Add song performersort tag</source>
       <translation type="unfinished">Add song performersort tag</translation>
-    </message>
-    <message>
-      <source>%albumsort%</source>
-      <translation type="unfinished">%albumsort%</translation>
     </message>
     <message>
       <source>Add song albumsort tag</source>
